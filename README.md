@@ -1,4 +1,5 @@
-# Grouping_Algorithm-
+# Grouping_Algorithm- Python
+
 This project was developed with the aim of categorizing tubes according to their bendability in manufacturing of curved geometry, based on experimental data.
 
 A set of 350 tube bars (6m each) where labeled with a number and had a piece of it laser cutted and labeled with the same number.
